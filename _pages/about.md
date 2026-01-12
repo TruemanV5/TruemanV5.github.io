@@ -33,20 +33,21 @@ If you are interested in collaboration, please feel free to contact me via [Emai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/tafs.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**TraveLLaMA: Facilitating Multimodal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**](https://arxiv.org/abs/2504.16505)
+[**TraveLLaMA: A Multimodal Travel Assistant with Large-Scale Dataset and Structured Reasoning**](https://arxiv.org/abs/2504.16505)
 <div style="display: inline">
     <a href="https://arxiv.org/abs/2504.16505"> <strong>[Paper]</strong></a>
+    <a href="https://travellama-best.github.io/"> <strong>[Project]</strong></a>
     <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" ><strong>[Abstract]</strong></a>
     <div class="abstract" style="overflow: hidden; display: none;">  
-        <p> Built a large-scale multimodal travel dataset with 220,000 QA pairs (130k text, 90k visual) covering 30,000 locations across three continents. Developed a two-phase data construction pipeline combining travel forums and Google Places API, integrating geo-tagged photos, maps, POI metadata, and reviews. Conducted comprehensive evaluations across multiple VLMs, demonstrating significant improvements in urban scene understanding and travel reasoning. </p>
+        <p> We present TraveLLaMA, a specialized multimodal language model for comprehensive travel assistance. Our contributions include: (1) TravelQA, a novel dataset of 265k QA pairs combining 160k text QA, 100k vision-language QA, and 5k expert-annotated CoT reasoning examples; (2) Travel-CoT, a structured reasoning framework that decomposes travel queries into spatial, temporal, and practical dimensions, improving accuracy by 10.8%; and (3) an interactive agent system achieving a SUS score of 82.5 in user studies with 500 participants. </p>
     </div>
 </div>
 
-**Meng Chu**, Yukang Chen, Haoxuan Gui, Shaoyuan Yu, Yi Wang, Jiaya Jia
+**Meng Chu**, Yukang Chen, Haokun Gui, Shaozuo Yu, Yi Wang, Jiaya Jia
 
-- **Large-scale Dataset** - **220K** QA pairs covering **30K** locations.
-- **Urban Scene Understanding** - Geo-tagged photos, maps, and POI metadata.
-- **Travel Assistance** - Comprehensive travel reasoning capabilities.
+- **TravelQA Dataset** - **265K** QA pairs across **35+** cities worldwide.
+- **Travel-CoT Reasoning** - **10.8%** accuracy improvement with structured reasoning.
+- **User Study** - SUS score of **82.5** (Excellent) with 500 participants.
 
 </div>
 </div>
@@ -55,20 +56,24 @@ If you are interested in collaboration, please feel free to contact me via [Emai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/website.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos**](https://arxiv.org/)
+[**VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos**](https://arxiv.org/abs/2506.10857)
 <div style="display: inline">
-    <a href="https://arxiv.org/"> <strong>[Paper]</strong></a>
+    <a href="https://arxiv.org/abs/2506.10857"> <strong>[Paper]</strong></a>
+    <a href="https://vrbench.github.io/"> <strong>[Project]</strong></a>
+    <a href="https://github.com/OpenGVLab/VRBench"> <strong>[Code]</strong></a>
+    <a href="https://huggingface.co/datasets/OpenGVLab/VRBench"> <strong>[Dataset]</strong></a>
     <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" ><strong>[Abstract]</strong></a>
     <div class="abstract" style="overflow: hidden; display: none;">  
-        <p> Constructed VRBench, a benchmark of 1,010 narrative videos emphasizing plot-driven reasoning rather than domain-specific knowledge. Designed a human–AI collaborative annotation pipeline, producing 8–10 temporally grounded QA pairs per video with precise timestamps. Implemented a multi-phase evaluation framework assessing both reasoning validity and final answer correctness. </p>
+        <p> We present VRBench, the first long narrative video benchmark for evaluating multi-step reasoning capabilities. It comprises 960 long videos (avg. 1.6 hours), 8,243 human-labeled multi-step QA pairs, and 25,106 reasoning steps with timestamps. We develop a human-AI collaborative framework generating coherent reasoning chains spanning seven types. VRBench designs a multi-phase evaluation pipeline assessing models at both outcome and process levels. </p>
     </div>
+<img src='https://img.shields.io/github/stars/OpenGVLab/VRBench.svg?style=social&label=Star' alt="VRBench" height="100%">
 </div>
 
-Jiaheng Yu*, Yinuo Wu*, **Meng Chu***, et al.
+Jiashuo Yu\*, Yue Wu\*, **Meng Chu\***, Zhifei Ren\*, Zizheng Huang\*, et al.
 
-- **Narrative Videos** - **1,010** videos emphasizing plot-driven reasoning.
-- **Temporally Grounded QA** - **8-10** QA pairs per video with timestamps.
-- **Multi-phase Evaluation** - Reasoning validity and answer correctness.
+- **Long Narrative Videos** - **960** videos with avg. **1.6 hours** duration.
+- **Multi-step Reasoning** - **8,243** QA pairs with **25,106** reasoning steps.
+- **Multi-phase Evaluation** - Outcome and process level assessment.
 
 </div>
 </div>
@@ -150,6 +155,7 @@ Jiaheng Yu*, Yinuo Wu*, **Meng Chu***, et al.
 [**VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis**](https://arxiv.org/abs/2512.19243)
 <div style="display: inline">
     <a href="https://arxiv.org/abs/2512.19243"> <strong>[Paper]</strong></a>
+    <a href="https://visiondirector.github.io/"> <strong>[Project]</strong></a>
     <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" ><strong>[Abstract]</strong></a>
     <div class="abstract" style="overflow: hidden; display: none;">  
         <p> Proposed LGBench, the first large-scale benchmark for long-horizon multi-goal image generation and editing, featuring 2,000 tasks and 29,000+ structured goals. Developed VisionDirector, a training-free VLM-driven closed-loop framework. Applied GRPO to reduce editing rounds by 26%. </p>
