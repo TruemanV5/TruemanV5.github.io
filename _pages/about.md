@@ -185,12 +185,12 @@ Jiaheng Yu*, Yinuo Wu*, **Meng Chu***, et al.
 
 - *2022.08 - 2024.06*: **M.Comp. in Artificial Intelligence** (Distinction)
   - National University of Singapore (NUS)
-  - GPA: 4.27/5.0 | Dean's List Fall 2023
+  - GPA: 4.27/5.0, Dean's List Fall 2023
   - Advisors: Prof. Tat-Seng Chua, Prof. Zhedong Zheng
 
 - *2018.08 - 2022.06*: **B.Eng. in Instrumentation and Optoelectronic Engineering**
   - Beihang University (BUAA)
-  - GPA: 3.6/4.0 | Top 0.3% in Gaokao
+  - GPA: 3.6/4.0, Top 0.3% in Gaokao
 
 
 # 🎖 Honors and Awards 
