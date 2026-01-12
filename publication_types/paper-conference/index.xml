@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | </title>
+    <link>https://truemanv5.github.io/publication_types/paper-conference/</link>
+      <atom:link href="https://truemanv5.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://truemanv5.github.io/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Paper-Conference</title>
+      <link>https://truemanv5.github.io/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>TraveLLaMA: Facilitating Multimodal Large Language Models to Understand Urban Scenes and Provide Travel Assistance</title>
+      <link>https://truemanv5.github.io/publications/travellama/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://truemanv5.github.io/publications/travellama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos</title>
+      <link>https://truemanv5.github.io/publications/vrbench/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://truemanv5.github.io/publications/vrbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphVideoAgent: Understanding Long Videos via LLM-Powered Entity Relation Graphs</title>
+      <link>https://truemanv5.github.io/publications/graphvideoagent/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://truemanv5.github.io/publications/graphvideoagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching</title>
+      <link>https://truemanv5.github.io/publications/geotext/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://truemanv5.github.io/publications/geotext/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Neural Networks | </title>
+    <link>https://truemanv5.github.io/tags/graph-neural-networks/</link>
+      <atom:link href="https://truemanv5.github.io/tags/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Neural Networks</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://truemanv5.github.io/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Graph Neural Networks</title>
+      <link>https://truemanv5.github.io/tags/graph-neural-networks/</link>
+    </image>
+    
+    <item>
+      <title>GraphVideoAgent: Understanding Long Videos via LLM-Powered Entity Relation Graphs</title>
+      <link>https://truemanv5.github.io/publications/graphvideoagent/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://truemanv5.github.io/publications/graphvideoagent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
