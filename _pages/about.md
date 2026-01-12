@@ -199,8 +199,10 @@ Jiashuo Yu\*, Yue Wu\*, **Meng Chu\***, Zhifei Ren\*, Zizheng Huang\*, et al.
   - GPA: 3.6/4.0, Top 0.3% in Gaokao
 
 
-# 🎖 Honors and Awards 
+# 🎖 Honors and Awards
 
 - 2023 Dean's List, National University of Singapore
 - 2024 M.Comp. with Distinction, National University of Singapore
 - 2018 Top 0.3% in National College Entrance Examination (Gaokao)
+
+<br><br><br><br><br><br><br><br><br><br>
