@@ -30,6 +30,29 @@ If you are interested in collaboration, please feel free to contact me via [Emai
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/visiondirector.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis**](https://arxiv.org/abs/2512.19243)
+<div style="display: inline">
+    <a href="https://arxiv.org/abs/2512.19243"> <strong>[Paper]</strong></a>
+    <a href="https://visiondirector.github.io/"> <strong>[Project]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" ><strong>[Abstract]</strong></a>
+    <div class="abstract" style="overflow: hidden; display: none;">  
+        <p> Proposed LGBench, the first large-scale benchmark for long-horizon multi-goal image generation and editing, featuring 2,000 tasks and 29,000+ structured goals. Developed VisionDirector, a training-free VLM-driven closed-loop framework. Applied GRPO to reduce editing rounds by 26%. </p>
+    </div>
+</div>
+
+**Meng Chu**, Senqiao Yang, Haoxuan Che, et al., Jiaya Jia
+
+- **LGBench** - **2,000** tasks with **29,000+** structured goals.
+- **Training-free** - VLM-driven closed-loop refinement.
+- **26% Reduction** - Editing rounds reduced via GRPO.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/travellama.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,7 +76,7 @@ If you are interested in collaboration, please feel free to contact me via [Emai
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/website.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/vrbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos**](https://arxiv.org/abs/2506.10857)
@@ -144,29 +167,6 @@ Jiashuo Yu\*, Yue Wu\*, **Meng Chu\***, Zhifei Ren\*, Zizheng Huang\*, et al.
 - **Impact Factor 8.2** - Published in IEEE Internet of Things Journal.
 - **Multisensory Fusion** - Haptic and visual feedback integration.
 - **IoT Framework** - Teleoperation system design.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/visiondirector.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis**](https://arxiv.org/abs/2512.19243)
-<div style="display: inline">
-    <a href="https://arxiv.org/abs/2512.19243"> <strong>[Paper]</strong></a>
-    <a href="https://visiondirector.github.io/"> <strong>[Project]</strong></a>
-    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" ><strong>[Abstract]</strong></a>
-    <div class="abstract" style="overflow: hidden; display: none;">  
-        <p> Proposed LGBench, the first large-scale benchmark for long-horizon multi-goal image generation and editing, featuring 2,000 tasks and 29,000+ structured goals. Developed VisionDirector, a training-free VLM-driven closed-loop framework. Applied GRPO to reduce editing rounds by 26%. </p>
-    </div>
-</div>
-
-**Meng Chu**, Senqiao Yang, Haoxuan Che, et al., Jiaya Jia
-
-- **LGBench** - **2,000** tasks with **29,000+** structured goals.
-- **Training-free** - VLM-driven closed-loop refinement.
-- **26% Reduction** - Editing rounds reduced via GRPO.
 
 </div>
 </div>
