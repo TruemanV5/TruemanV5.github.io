@@ -30,7 +30,7 @@ If you are interested in collaboration, please feel free to contact me via [Emai
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/tafs.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/travellama.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**TraveLLaMA: A Multimodal Travel Assistant with Large-Scale Dataset and Structured Reasoning**](https://arxiv.org/abs/2504.16505)
@@ -149,7 +149,7 @@ Jiashuo Yu\*, Yue Wu\*, **Meng Chu\***, Zhifei Ren\*, Zizheng Huang\*, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tafs.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/visiondirector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis**](https://arxiv.org/abs/2512.19243)
