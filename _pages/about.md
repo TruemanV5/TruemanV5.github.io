@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Meng CHU (褚蒙)'s website!  
+Hi, this is Meng CHU (褚蒙, same pronunciation as Trueman)'s website!  
 I am a second-year Ph.D. student at [Hong Kong University of Science and Technology (HKUST)](https://www.cse.ust.hk/), advised by [Prof. Jiaya Jia](https://jiaya.me/home).  
 Before that, I obtained my Master's degree from [National University of Singapore (NUS)](https://www.comp.nus.edu.sg/) with Distinction, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Zhedong Zheng](https://www.zdzheng.xyz/).
 
